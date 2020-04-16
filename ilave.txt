@@ -1,2 +1,3 @@
 Bu bir ilave yazıdır.
 Gitin add komutu için
+BU değişiklik iyi gelecek.
